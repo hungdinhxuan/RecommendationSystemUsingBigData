@@ -1,4 +1,4 @@
-# Recommendatio nSystem Using BigData
+# Recommendation System Using BigData
 ### Using movielens 20M datasets
 # Contributor
 ## Đinh Xuân Hùng
