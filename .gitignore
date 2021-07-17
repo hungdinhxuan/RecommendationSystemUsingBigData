@@ -1,0 +1,4 @@
+*.tmp
+*.docx#
+.ipynb_checkpoints
+dask-worker-space
